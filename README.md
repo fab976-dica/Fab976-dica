@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on - embiTool integration to krake
+- 🌱 I’m currently learning - python
+- 👯 I’m looking to collaborate on - krake
+- 🤔 I’m looking for help with - I´ll ask you if I need something 😄
+- 💬 Ask me about - whatever you want to know
+- 📫 How to reach me - best via Teams
+
 <!--
 **Fab976-emb/Fab976-emb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
