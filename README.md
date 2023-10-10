@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on - embiTool integration to krake
+- 🔭 I’m currently working on - testcase automatisation
 - 🌱 I’m currently learning - python
 - 👯 I’m looking to collaborate on - krake
 - 🤔 I’m looking for help with - I´ll ask you if I need something 😄
